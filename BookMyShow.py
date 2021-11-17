@@ -49,7 +49,7 @@ class Book_My_Show:
             elif x=="4":
                 self.show_userInfo()
             elif x=="0":
-                self.options()
+                self.exit()
             else:
                 print("Please Choose Appropriate Option")
         
